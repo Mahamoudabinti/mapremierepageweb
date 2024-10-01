@@ -31,5 +31,5 @@ a{font-size: 1em; font-family: manrope; text-decoration: none;}
     border-right: 35px #A5B4FC solid; /*Couleur du droite*/
     border-bottom: 25px green solid; /*Couleur du BAS*/
     border-left: 5px yellowgreen dashed; /*Couleur du gauche*/
-    border-radius: 10px 10px 10px; /*Definis la taille*/
+    border-radius: 10px 10px 10px; /*Definis la taille*/ 
 }
