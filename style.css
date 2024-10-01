@@ -1,19 +1,35 @@
 h1{
-    color: rgb(0, 255, 68);
+    color: rgb(0, 255, 68);font-style: italic; 
+     text-align: center; 
+     font-size: 3.5em;
+     color: #A5B4FC;
+     font-family: montserrat;
+
 }
 
-p{
-    color:blueviolet;
-}
+
 h4{color: blueviolet;}
 .maclasse{color: rgb(196, 234, 255);}
 p{
+    color:blueviolet;
     color:rgb(5, 9, 1);
-    font-size: 20px;
+    font-size: 1.1em;
+
     padding-left: 60px;
     padding-right: 20px;
     font-weight: bold;
-    font-family: roboto,sans-serif;
+    font-family: manrope,sans-serif;
 }
 body{background-color: burlywood;}
-h1{font-style: italic; text-decoration: underline; text-align: center;}
+li{font-size: 1em; font-family:manrope ;}
+a{font-size: 1em; font-family: manrope; text-decoration: none;}
+
+.mabordure{padding: 50px;
+    background-color: skyblue; /*Couleur du fond*/
+    border: solid red; /*Couleur du*/
+    border-top:3px rgb(238, 85, 169) double; /*Couleur du haut*/
+    border-right: 35px #A5B4FC solid; /*Couleur du droite*/
+    border-bottom: 25px green solid; /*Couleur du BAS*/
+    border-left: 5px yellowgreen dashed; /*Couleur du gauche*/
+    border-radius: 10px 10px 10px; /*Definis la taille*/
+}
