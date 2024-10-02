@@ -1,0 +1,17 @@
+nav ul{
+    list-style-type: none;
+    border-bottom: 11px;
+    border-bottom-style: double; 
+    border-bottom-color: rgb(255, 196, 196);
+
+}
+li{
+    display: inline-block;
+    padding:1em;
+}
+body{
+    background-color: rgb(255, 0, 128);
+}
+h1{
+    text-align: center;
+}
